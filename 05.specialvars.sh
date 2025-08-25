@@ -10,4 +10,5 @@ echo "$HOME"
 echo "Current script process id: $$"
 sleep 5 &
 echo "process id of command running in background: $!"
-echo "Status:S or F: $0 sucess"
+echo "Sript name: $0"
+echo "Sucess-0 or failure-any-number: $?"
