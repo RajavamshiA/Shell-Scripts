@@ -1,8 +1,7 @@
 #!/bin/bash
 
-$1=vamshi
-$2=raja
-$3=kk
+var1=$1
+var2=$2
 
 echo "all variables are: $@"
 echo "No of variables are: $#"
