@@ -2,9 +2,9 @@
 
 arr=("vamshi","raja","ankam")
 
-echo "first element in array is $arr[0]"
-echo "Second element in array is $arr[1]"
-echo "Third element in array is $arr[3]"
+echo "first element in array is ${arr[0]}"
+echo "Second element in array is ${arr[1]}"
+echo "Third element in array is ${arr[3]}"
 
-echo "All elements in array are $arr[@]"
+echo "All elements in array are ${arr[@]}"
 
