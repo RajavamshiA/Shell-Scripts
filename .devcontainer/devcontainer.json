@@ -1,3 +1,4 @@
+# To support dnf command, we need to include this OS image into the repository.
 {
   "image": "fedora:latest"
 }
