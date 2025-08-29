@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This script demonstrates colours, functions, loops,redirections
 USERID=$(id -u)
 R="\e[31m"
 G="\e[32m"
